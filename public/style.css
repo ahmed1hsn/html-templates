@@ -1,0 +1,91 @@
+/* .datasets-sidebar li {
+    list-style-type: "- ";
+} */
+
+.flex-50 {
+    flex: 0 0 50%;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.w-35 {
+    width: 35%;
+}
+
+.custom-nav-styles {
+    background: #f1ee81;
+    /* border-bottom: 2px #b6b6b9 solid; */
+    /* box-shadow: 0px 3px 7px #21252940; */
+}
+
+.custom-bg {
+    background: #f1ee81;
+}
+
+.custom-overview-styles {
+    /* box-shadow: 0px 5px 10px grey; */
+    padding: 1rem;
+    border-radius: 0.5rem;
+    color: darkslategray;
+    background: #ffbadf;
+}
+
+.custom-table-bg {
+    background: #f2f4ff;
+}
+
+
+/* tr:nth-child(odd) {
+    background: rgb(255, 255, 255);
+} */
+
+tbody tr:nth-child(odd) {
+    background: #efefef;
+}
+
+thead>tr {
+    background: #d7fff0;
+}
+
+
+/* thead tr {
+    background: #ffbadf;
+} */
+
+.custom-sidebar-bg {
+    background: #efefef;
+}
+
+.custom-sidebar-card {
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    /* box-shadow: 0px 0px 25px #b0ae5e; */
+}
+
+.height-fit-content {
+    height: fit-content;
+}
+
+
+/* #f1ee81 */
+
+
+/* #dfe6ea */
+
+
+/* overview card bg color (0.1): #e1f9c8 */
+
+
+/* overview card bg color (0.2): #ffbadf */
+
+
+/* sidebar bg color: #e5ecb4 */
+
+
+/* table bg color (0.1): #f0ffda */
+
+
+/* table bg color (0.2): #f2f4ff */

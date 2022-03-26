@@ -1,0 +1,29 @@
+
+.bg-bootcamp {
+    background: #ebf1f8;
+}
+.bg-bootcamp-gradient {
+    background-image: linear-gradient(to bottom, #fff 11%, #ebf1f8 83%);
+}
+.bootcamp-card-img {
+    object-fit: none;
+    object-position: center;
+    width: 50%;
+    height: 50%;
+}
+.bootcamp-advisor-image {
+    max-width: 130px;
+    max-height: 130px;
+}
+.bootcamp-border-bottom {
+    border-bottom: 8px solid blue;
+}
+.bootcamp-heading-bottom::after {
+    display: block;
+    width: 35px;
+    content: "";
+    height: 2px;
+    background: #1179EF;
+    margin-top: 8px;
+    text-align: center;
+}
